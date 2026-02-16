@@ -48,7 +48,7 @@ h1 {
 }
 
 .weather-container{
-    margin-block:4rem;
+    margin-block:10rem;
 }
 
 .btn{
@@ -80,7 +80,7 @@ h1 {
 }
 
 .grant-location-container img{
-    margin-bottom: 2rem;
+    margin-bottom: 5rem;
 }
 
 .grant-location-container p:first-of-type{
@@ -217,17 +217,18 @@ h1 {
 }
 
 .form-container input:focus{
-    outline: 3px solid rgba(255, 255, 255, 0.7);
+    outline: 3px solid rgba(265, 255, 255, 0.7);
 }
 
 .form-container .btn {
     padding:unset;
-    width: 40px;
+    width: 80px;
     height: 40px;
     display: flex;
     align-items: center;
     justify-content: center;
     border-radius: 100%;
-    margin-bottom:1px;
+    margin-bottom:5px;
 
 }
+
